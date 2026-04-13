@@ -7,7 +7,6 @@ menuOpenButton.addEventListener("click", () => {
 
 menuCloseButton.addEventListener("click", () => menuOpenButton.click());
 
-// Initialize Swiper
 const swiper = new Swiper('.slider-wrapper', {
   loop: true,
   grabCursor: true,
