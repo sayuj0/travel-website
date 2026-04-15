@@ -39,6 +39,11 @@ const swiper = new Swiper('.slider-wrapper', {
 
 const contactForm = document.querySelector(".contact-form");
 const formStatusMessage = document.querySelector("#form-success");
+const copyrightYear = document.querySelector("#copyright-year");
+
+if (copyrightYear) {
+  copyrightYear.textContent = new Date().getFullYear();
+}
 
 if (contactForm) {
   contactForm.addEventListener("submit", async (event) => {
