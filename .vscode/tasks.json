@@ -5,6 +5,11 @@
 			"label": "Open index.html in browser",
 			"type": "shell",
 			"command": "start index.html"
+		},
+		{
+			"label": "Open index.html in browser",
+			"type": "shell",
+			"command": "start index.html"
 		}
 	]
 }
