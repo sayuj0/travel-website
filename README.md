@@ -1,6 +1,6 @@
 # 🌍 Wandering
 
-**Wandering** is a personal travel website that shares the story of our favorite memories, meals, and future destinations. Built with simplicity and storytelling in mind, it's a digital scrapbook of where we've been and where we’re going next.
+Wandering is a personal travel website that shares the story of our favorite memories, meals, and future destinations. Built with simplicity and storytelling in mind, it's a digital scrapbook of where we've been and where we’re going next.
 
 ## Features
 
